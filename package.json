@@ -1,0 +1,42 @@
+{
+    "name": "co-dark-blue",
+    "displayName": "Co-Dark Blue",
+    "description": "A Blu-ish Theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BisherAlmasri/Co-Dark-Blue"
+      },
+      "bugs": {
+        "url": "https://github.com/BisherAlmasri/Co-Dark-Blue/issues"
+      },
+      "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+      },
+      "icon": "img/icon/logo-250x250.png",
+      "categories": [
+        "Themes"
+      ],
+      "keywords": [
+        "blue",
+        "theme",
+        "Blue",
+        "Theme",
+        "Themes",
+        "themes"
+      ],
+  
+      "contributes": {
+        "themes": [
+            {
+                "label": "Co-Dark Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Co-Dark Blue-color-theme.json"
+            }
+        ]
+    }
+}
