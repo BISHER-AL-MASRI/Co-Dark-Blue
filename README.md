@@ -6,7 +6,7 @@ It is a mix of dark purple and black, and much more colors!
 * Simple coloring.
 * And much, much more!
 
-![Img](/img/view1.png)
+![Img](https://raw.githubusercontent.com/BisherAlmasri/Co-Dark-Blue/main/img/view1.png)
 
 ## Installation
 
@@ -14,10 +14,10 @@ It is a mix of dark purple and black, and much more colors!
 1. Search for Co-Dark Purple
 1. Click Install
 1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ Co-Dark Purple
+1. Select the Manage Cog (bottom left) > Color Theme ＞ Co-Dark Blue
 
 ## Issues & Suggestions
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/bmayttvv/Co-Purple/issues).
+For any issues or suggestions, please use [GitHub issues](https://github.com/BisherAlmasri/Co-Dark-Blue/issues).
 
 **Enjoy!**

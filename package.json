@@ -2,7 +2,8 @@
     "name": "co-dark-blue",
     "displayName": "Co-Dark Blue",
     "description": "A Blu-ish Theme!",
-    "version": "0.0.1",
+    "publisher": "BisherAlmasri",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.67.0"
     },

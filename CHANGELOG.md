@@ -1,9 +1,4 @@
-# Change Log
+<h1>Full Release</h1>
 
-All notable changes to the "co-dark-blue" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+* Fixed Debug Issue
+* Full Release!
